@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Digvijaysinh Dodiya</h1>
 
 <h3 align="center">
-MSc IT Student @ D| Software Developer | 
+MSc IT Student @ DAU | Software Developer | Machine Learning Enthusiast
+</h3>
 
 <p align="center">
 Passionate about building software, solving problems, and continuously learning new technologies.
 </p>
 
----AU 
-Machine Learning Enthusiast
-</h3>
+---
 ## 🚀 About Me
 
 - 🎓 Pursuing MSc in Information Technology at DA-IICT
@@ -92,14 +91,6 @@ Machine Learning Enthusiast
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Digvijaysinh430&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digvijaysinh430&layout=compact&theme=tokyonight" alt="languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Digvijaysinh430&theme=tokyonight" alt="streak" />

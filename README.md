@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Digvijaysinh Dodiya</h1>
 
 <h3 align="center">
-MSc IT Student @ DAU | Software Developer | Machine Learning Enthusiast
+Software Developer | Machine Learning Enthusiast
 </h3>
 
 <p align="center">
@@ -11,7 +11,7 @@ Passionate about building software, solving problems, and continuously learning 
 ---
 ## 🚀 About Me
 
-- 🎓 Pursuing MSc in Information Technology at DA-IICT
+- 🎓 Pursuing MSc in Information Technology at DAU
 - 💻 Exploring Software Development, Machine Learning, and Data Structures & Algorithms
 - 🌐 Building scalable and real-time applications using modern web technologies
 - ⚙️ Learning backend development, API design, databases, and system architecture
